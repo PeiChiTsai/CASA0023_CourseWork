@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CASA0023-Remotely Sensing",
+    "section": "",
+    "text": "This is a Quarto website.\nHi, I’m Pei-Chi (Peggy) Tsai. This is my online portfolio where I showcase my projects, skills, and more.\n- [About Me](about.qmd) - [My Projects](projects.qmd)\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Week1.html",
+    "href": "Week1.html",
+    "title": "2  Week1: Introduction",
+    "section": "",
+    "text": "3 Projects"
+  },
+  {
+    "objectID": "Week1.html#project-1",
+    "href": "Week1.html#project-1",
+    "title": "2  Week1: Introduction",
+    "section": "3.1 Project 1",
+    "text": "3.1 Project 1\n- **Description**: An amazing project about data analysis. - **Tools**: R, ggplot2"
+  },
+  {
+    "objectID": "Week1.html#project-2",
+    "href": "Week1.html#project-2",
+    "title": "2  Week1: Introduction",
+    "section": "3.2 Project 2",
+    "text": "3.2 Project 2\n- **Description**: A visualization project for urban planning. - **Tools**: Quarto, Leaflet"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "3  About Me",
+    "section": "",
+    "text": "4 About Me\nI am Pei-Chi Tsai, a UCL master student with expertise in Urban Spatial Science. My passion is creating impactful designs and solutions.\nThis is a test page."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "3  About Me",
+    "section": "4.1 Skills",
+    "text": "4.1 Skills\n- Data Analysis - Visualization - Web Development\n\n1 + 1\n\n[1] 2"
+  }
+]
