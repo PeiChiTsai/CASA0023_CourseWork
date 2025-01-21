@@ -1,0 +1,13 @@
+---
+title: "Week1: Introduction"
+---
+
+# Projects
+
+## Project 1
+
+[-]{.underline} \*\*Description\*\*: An amazing project about data analysis. [-]{.underline} \*\*Tools\*\*: R, ggplot2
+
+## Project 2
+
+[-]{.underline} \*\*Description\*\*: A visualization project for urban planning. [-]{.underline} \*\*Tools\*\*: Quarto, Leaflet

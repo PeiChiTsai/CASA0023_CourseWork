@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I am Pei-Chi Tsai, a UCL master student with expertise in Urban Spatial Science. My passion is creating impactful designs and solutions.
+
+This is a test page.
+
+## Skills
+
+[-]{.underline} Data Analysis [-]{.underline} Visualization [-]{.underline} Web Development
+
+```{r}
+1 + 1
+```
