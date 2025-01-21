@@ -1,5 +1,6 @@
 ---
 title: "CASA0023_RemotelySensing_Coursework"
+format: html
 ---
 
 This is a Quarto website.

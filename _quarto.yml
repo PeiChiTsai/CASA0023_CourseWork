@@ -1,21 +1,20 @@
 project:
-  type: website
+  type: book
+  output-dir: docs
 
-website:
-  title: "PeggyTsai: CASA0023 Remotely Sensing Coursework"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - text: "Week1"
-      href: Week1.qmd
-
+book:
+  title: "CASA0023-Remotely Sensing"
+  author: "Peggy Tsai"
+  date: "1/21/2025"
+  chapters:
+    - index.qmd
+    - Week1.qmd
+    - about.qmd
+    
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true
+  pdf:
+    documentclass: scrreprt
 
 editor: visual
-
